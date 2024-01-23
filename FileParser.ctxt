@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileParser
+comment1.params=
+comment1.target=java.lang.String\ getWord()
+comment2.params=
+comment2.target=int\ getRandomNumber()
+numComments=3
